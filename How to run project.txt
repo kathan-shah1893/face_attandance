@@ -1,0 +1,21 @@
+
+Installation Part
+-----------------------------------------------
+
+1. Install latest verison of Pip and Python
+pip install opencv-python
+pip install flask
+pip install scikit-learn
+pip install pandas
+pip install joblib
+pip install numpy
+
+------------------------------------------------
+
+How to Run
+------------------------------------------------
+
+1. Open project folder and right click then select open in 
+terminal option or open with VS Code
+2. open terminal and write this Command -> "python -m flask run" or Copy and Paste, after that a localhost link will be generated copy that link or press ctrl+mouse click it will automatically redirects to the chrome or ur default browser
+ 
